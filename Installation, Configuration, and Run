@@ -1,0 +1,15 @@
+Installation: Orcle Virtualbox with Ubuntu IOS 
+
+Step #1: Verified my computer specs can run a virtual box. 
+VirtualBox specs criteria needed: At least 4 GB (4096 MB) of RAM, 2 CPUs, Absolute minumum 25 GB of Storage (Hard Disk) for Ubuntu IOS 
+My computer specs: Windows 11, 40 GB of RAM, 1 TB Stoage, 8 cores, logical processors 16 
+**Notation - Right click on the task bar then click on task manager > performance > CPU (look for cores and logical processors).
+This information will serve you when are setting up the virtual box. 
+
+Step #2: Downloaded & Installed Oracle Virtualbox (VB)
+After the download I located the Oracle VB and doubled clicked on the .exe file which the installer began and followed the set-up wizard prompts. 
+I left everything to default and selected "YES" when asked about the network being reset. Then proceed to click "install".
+I did not installed the additional extensions. 
+I located the VB icon on my desktop and double clicked on it. 
+
+                                
